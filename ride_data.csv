@@ -1,0 +1,14 @@
+Technology, Type, Vehicle Type, Name, Capacity, Max Speed (m/s), Max Height (m), Max Length (m), Max G-Force, Duration (min), Base Cost
+
+Dark Ride, Interactive, Tracked Car, Haunted Mansion, 8 passengers, 0.83 m/s, N/A, 300 m, 1.0 g, 5, 500000
+Dark Ride, Trackless, Self-Propelled Vehicle, Mystic Manor, 4 passengers, 1.39 m/s, N/A, 200 m, 0.8 g, 3, 750000
+Motion Simulator, 6-DOF, N/A, Star Tours, 12 passengers, N/A, N/A, N/A, N/A, 8, 300000
+Motion Simulator, 3-DOF, N/A, Soarin', 8 passengers, N/A, N/A, N/A, N/A, 6, 250000
+Water Ride, Flume, Log Flume, Splash Mountain, 6 passengers, 8.33 m/s, 15 m, 500 m, N/A, 4, 400000
+Water Ride, Rapids, Raft, Kali River Rapids, 12 passengers, 11.11 m/s, 20 m, 800 m, N/A, 5, 600000
+AGV Ride, Track-Based, N/A, Spider-Man: The Ride, 10 passengers, 5.56 m/s, N/A, 500 m, N/A, 4, 700000
+Flying Theater, Suspended, Seats Suspended on Arms, SkyScapeTech, 50 passengers, 13.89 m/s, 50 m, 300 m, N/A, 6, 1500000
+Immersive Flume, Boat Ride, Boat, AquaAdventuresRide, 75 passengers, 8.33 m/s, 15 m, 400 m, N/A, 5, 800000
+Dynamic Motion Simulator, 6-DOF, N/A, ThrillTech, 30 passengers, N/A, N/A, N/A, N/A, 10, 900000
+AGV Dark Ride, Track-Based, N/A, ShadowQuestTech, 100 passengers, 11.11 m/s, N/A, 500 m, 1.2 g, 7, 1200000
+Trackless Ride System, Self-Propelled Vehicle, NavigatorTech, 80 passengers, 9.72 m/s, N/A, 600 m, 1.0 g, 5, 1000000
